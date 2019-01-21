@@ -1,4 +1,4 @@
-Charlotte Mecklenburg Police Department – Traffic Stop and Officer Involved Shooting Data
+Charlotte Mecklenburg Police Department – Traffic Stop Dataset
 
 The Police Data Initiative was launched by then U.S. President Barack Obama for promoting the use of open data to encourage joint problem solving, innovation, enhanced understanding and accountability between communities and the law enforcement agencies that serve them. The police data sets are used, among other purposes, to track progress on performance goals, identify crime trends and hotspots, improve traffic safety, measure response times and call volume, reduce opioid deaths and show transparency around issues such as workforce demographics, officer complaints and use-of-force incidents.
 
